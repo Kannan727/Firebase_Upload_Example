@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="recycler_view" type="id"></item>
+    <item name="progress_circle" type="id"></item>
+    <item name="text_view_name" type="id"></item>
+    <item name="image_view_upload" type="id"></item>
+</resources>
